@@ -58,7 +58,7 @@ This project addresses these gaps using an interactive Power BI solution.
 ## 🖼 Dashboard Screenshots
 
 ### 🔹 Overview Dashboard
-![Overview Dashboard]
+
 <img width="1920" height="1080" alt="overview" src="https://github.com/user-attachments/assets/6a45949e-ae42-41e8-82b9-5206e10cfc33" />
 
 This page provides a high-level summary of song and artist performance, including KPIs, popularity trends, album type distribution, and explicit vs non-explicit analysis.
@@ -66,7 +66,7 @@ This page provides a high-level summary of song and artist performance, includin
 ---
 
 ### 🔹 Artist Analysis Dashboard
-![Artist Analysis Dashboard](screenshots/artists.png)
+
 <img width="1920" height="1080" alt="artists" src="https://github.com/user-attachments/assets/ec2f6d23-ff72-4438-bc9b-486629c3f818" />
 
 This page focuses on artist-level insights such as top artists by popularity, consistency of hits, album distribution, and explicit vs non-explicit performance.
@@ -74,7 +74,7 @@ This page focuses on artist-level insights such as top artists by popularity, co
 ---
 
 ### 🔹 Song Analysis Dashboard
-![Song Analysis Dashboard](screenshots/songs.png)
+
 <img width="1920" height="1080" alt="songs" src="https://github.com/user-attachments/assets/d38c9769-fc09-4b1b-b827-0153f14e007d" />
 
 This page delivers detailed song-level insights including popularity ranking, song duration, age analysis, and album vs single breakdown.
