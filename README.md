@@ -1,4 +1,9 @@
 # Spotify Music Streaming Analysis | Power BI
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![ETL](https://img.shields.io/badge/Process-ETL-orange)
+![Dashboard](https://img.shields.io/badge/Type-Interactive%20Dashboard-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 ## 📌 Project Overview
 This project presents an interactive Power BI dashboard built to analyze Spotify Top 50 music data.  
