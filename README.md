@@ -58,7 +58,7 @@ This project addresses these gaps using an interactive Power BI solution.
 ## 🖼 Dashboard Screenshots
 
 ### 🔹 Overview Dashboard
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard]
 <img width="1920" height="1080" alt="overview" src="https://github.com/user-attachments/assets/6a45949e-ae42-41e8-82b9-5206e10cfc33" />
 
 This page provides a high-level summary of song and artist performance, including KPIs, popularity trends, album type distribution, and explicit vs non-explicit analysis.
